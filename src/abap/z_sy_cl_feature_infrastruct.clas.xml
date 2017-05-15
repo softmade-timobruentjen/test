@@ -3,10 +3,10 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>Z_FIRSTGITCLASS</CLSNAME>
+    <CLSNAME>Z_SY_CL_FEATURE_INFRASTRUCT</CLSNAME>
     <VERSION>1</VERSION>
     <LANGU>D</LANGU>
-    <DESCRIPT>Erste GitKlasse</DESCRIPT>
+    <DESCRIPT>Initialisieren der Feature Toggles</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
     <CLSFINAL>X</CLSFINAL>
