@@ -5,7 +5,7 @@ class Z_XX_FEATURE definition
 
 public section.
 
-  CLASS-DATA feature_a type ABAP_BOOL read-only .
+  CLASS-DATA feature_a type ABAP_BOOL.
   DATA feature_a_desc type STRING value `Put feature-description here` .
 
   class-methods CLASS_CONSTRUCTOR .
